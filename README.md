@@ -1,121 +1,131 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Mahdi Tasa</h1>
-<h3 align="center">Senior Full-Stack Engineer · Nest / Next · Spring Boot / .NET · DevOps & Automation</h3>
+<!-- Profile README for MahdiTasa -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MahdiTasa&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<h1 align="center">Mahdi Tasa</h1>
+
+<h3 align="center">
+  Senior Full‑Stack Engineer · NestJS · Next.js · Spring Boot · .NET · DevOps &amp; Automation
+</h3>
 
 <p align="center">
-  <i>"The future belongs to those who stand firm in their roots, forging a new civilization with strength, wisdom, and vision."</i>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Engineer;Building+production-ready+web+%26+cloud+platforms;End-to-end+DevOps+and+automation"
+      alt="Typing animation showing Mahdi's headline"
+    />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- Senior **Full-Stack Engineer** with end-to-end ownership: from architecture & domain modeling to CI/CD and production observability  
-- Hands-on with **high-traffic, distributed systems**, microservices, and event-driven architectures  
-- Experienced in **product-oriented engineering**: shipping features fast while keeping codebase clean, testable, and maintainable  
-- Comfortable leading teams, doing code reviews, designing systems, and mentoring engineers  
-
-> «کدم فقط کار نمی‌کنه، قابل نگهداریه، مانیتور می‌شه و مقیاس‌پذیره.»
+- Senior **Full‑Stack Engineer** with end‑to‑end ownership: from business requirements and architecture to CI/CD and production reliability.  
+- Strong focus on **clean architecture, domain modeling, and high‑quality code** that stays maintainable over time.  
+- Used to working on **high‑traffic, distributed systems** with microservices and event‑driven patterns.  
+- Comfortable leading teams, doing deep code reviews, and mentoring engineers while still staying very hands‑on.
 
 ---
 
-## 🧩 Core Tech Stack
+## Tech Stack
 
-### Web & Backend
+### Backend
 
-- **TypeScript / JavaScript**
-  - **NestJS** (modular monoliths, microservices, CQRS)
-  - **Next.js** (SSR/SSG, app router, hybrid rendering)
-- **Java**
-  - **Spring Boot** (REST APIs, messaging, security, batch)
-- **C# / .NET**
-  - ASP.NET Core (APIs, background services, integrations)
+- **Languages & runtimes:** TypeScript, Java, C#, Node.js  
+- **Frameworks:** NestJS, Spring Boot, ASP.NET Core  
+- Patterns: modular monoliths, microservices, CQRS, event‑driven systems, background workers
 
-### DevOps & Automation
+### Frontend
 
-- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes  
-- **CI/CD**: GitHub Actions, GitLab CI, Azure DevOps (multi-stage pipelines)  
-- **Infra as Code**: Terraform, Helm, kustomize (opinionated environments)  
-- **Cloud**: AWS / Azure (ECS/EKS/AKS, S3/Blob, RDS/SQL, queues, caching)  
-- **Observability**: Prometheus, Grafana, OpenTelemetry, ELK/EFK  
+- **Frameworks:** React, Next.js (app router, SSR/SSG, hybrid rendering)  
+- UI/UX: component‑driven design, design systems, performance‑first SPA/SSR apps
 
-### Data & Storage
+### DevOps & Cloud
 
-- Relational: PostgreSQL, MySQL, SQL Server  
-- NoSQL: MongoDB, Redis, ElasticSearch  
-- Messaging: RabbitMQ, Kafka (event-driven patterns)
+- **Containers & orchestration:** Docker, Docker Compose, Kubernetes  
+- **CI/CD:** GitHub Actions, GitLab CI, Azure DevOps (multi‑stage pipelines)  
+- **Infrastructure as Code:** Terraform, Helm, kustomize  
+- **Cloud:** AWS & Azure (compute, storage, queues, databases, caching)  
+- **Observability:** Prometheus, Grafana, OpenTelemetry, ELK/EFK stacks
 
----
+### Data & Messaging
 
-## 🛠 Engineering Focus Areas
-
-- **Clean Architecture & DDD**: Bounded contexts, aggregates, and clear separation of concerns  
-- **Scalability & Reliability**: horizontal scaling, resiliency patterns (circuit breaker, retry, backoff)  
-- **Testing Culture**: unit, integration, contract tests, and automated QA pipelines  
-- **Security First**: auth, authz, OWASP, secure-by-default configurations  
-- **Developer Experience**: mono-repos, codegen, templates, and automation that removes friction  
+- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis  
+- **Search & analytics:** ElasticSearch  
+- **Messaging:** RabbitMQ, Kafka (pub/sub, streaming, outbox pattern)
 
 ---
 
-## 📦 Featured Stacks
+## What I Care About
 
-### 1. NestJS + Next.js
-
-- API gateways, BFF (Backend for Frontend) pattern  
-- Typed end-to-end with shared models  
-- Real-time features (WebSockets, SSE)  
-- Authentication & authorization (JWT, OAuth2, RBAC)
-
-### 2. Spring Boot
-
-- Enterprise-grade microservices  
-- Spring Security, Spring Cloud, Batch processing  
-- Integration with Kafka/RabbitMQ, distributed tracing  
-
-### 3. .NET
-
-- High-performance APIs with ASP.NET Core  
-- Background workers, scheduling, resilient integrations  
-- Integration with Microsoft ecosystem & Azure services  
+- **Reliable systems:** graceful degradation, timeouts, retries, circuit breakers, and proper SLIs/SLOs  
+- **Developer experience:** fast feedback loops, automation over manual work, clear conventions  
+- **Security by default:** secure configs, secrets management, authn/authz baked into the design  
+- **Product thinking:** shipping value quickly without sacrificing long‑term maintainability  
 
 ---
 
-## 🧪 DevOps & Automation Philosophy
-
-> “If I repeat it twice, I automate it.”
-
-- GitOps-friendly workflows with declarative infrastructure  
-- One-click deployments from feature branch to production  
-- Full pipeline: **Build → Test → Security Scan → Deploy → Verify → Observe**  
-- Blue/green, canary releases, and feature flags for safe rollouts  
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiTasa&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=MahdiTasa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+      alt="Mahdi's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiTasa&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+      alt="Top languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiTasa&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      height="170"
+      src="https://streak-stats.demolab.com?user=MahdiTasa&theme=github-dark&hide_border=true"
+      alt="GitHub contribution streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiTasa&layout=compact&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=MahdiTasa&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"
+      alt="GitHub Profile Trophies"
+    />
+  </a>
 </p>
 
 ---
 
-## 🌍 Where to Find Me
+## How I Work
 
-- Website: [https://mahditasa.com](https://mahditasa.com)  
+- **Architecture first:** start with domain and boundaries, then choose patterns and tech that fit.  
+- **Automation everywhere:** if a step is repeated, it becomes a script or a pipeline stage.  
+- **Production‑ready by default:** logs, metrics, traces, dashboards, and alerts as part of the definition of done.  
+- **Collaborative:** clear communication, documented decisions, and honest feedback in reviews.
+
+---
+
+## Connect
+
+- Website: [mahditasa.com](https://mahditasa.com)  
 - GitHub: [@MahdiTasa](https://github.com/MahdiTasa)  
 - X (Twitter): [@MahdiTasa](https://x.com/MahdiTasa)  
-- Email: `info@mahditasa.com`  
+- Email: [info@mahditasa.com](mailto:info@mahditasa.com)
 
 ---
 
 <p align="center">
-  <sub>Always open to interesting problems, ambitious products, and serious engineering challenges.</sub>
+  <sub>Always open to challenging products, serious engineering problems, and teams that care about quality.</sub>
 </p>
