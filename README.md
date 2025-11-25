@@ -36,16 +36,28 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahdiTasa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=MahdiTasa&show_icons=true&theme=transparent"
+      alt="Mahdi's GitHub stats"
+    />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiTasa&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiTasa&layout=compact&langs_count=8&card_width=320&theme=transparent"
+      alt="Top languages"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=MahdiTasa&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <a href="https://git.io/streak-stats">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com/?user=MahdiTasa&theme=dark&hide_border=true"
+      alt="GitHub streak"
+    />
   </a>
 </p>
 
