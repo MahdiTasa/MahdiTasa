@@ -31,10 +31,10 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Snapshot
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahdiTasa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
   </a>
@@ -49,7 +49,7 @@
   </a>
 </p>
 
----
+--- -->
 
 ### 🌐 Links
 
